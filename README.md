@@ -45,7 +45,7 @@ unknown voice sample using the same method and compared to the estimated frequen
 ## Flowchart
 <p >
   <div align="center" >
- <img width="640" height="400" src="https://github.com/Ajinkya259/Gender-Recognition/blob/master/images/flow%20chart.JPG">
+ <img width="640" height="400" src="https://github.com/Ajinkya259/VoiceBased_Gender_Recognization/blob/main/images/flow%20chart.JPG">
     </div>
 </p>
 
@@ -55,7 +55,7 @@ unknown voice sample using the same method and compared to the estimated frequen
 
 <p >
   <div align="center" >
- <img width="640" height="400" src="https://github.com/Ajinkya259/Gender-Recognition/blob/master/images/app.png">
+ <img width="640" height="400" src="https://github.com/Ajinkya259/VoiceBased_Gender_Recognization/blob/main/images/app.png">
     </div>
 </p>
 
@@ -64,7 +64,7 @@ unknown voice sample using the same method and compared to the estimated frequen
 
 <p >
   <div align="center" >
- <img width="640" height="400" src="https://github.com/Ajinkya259/Gender-Recognition/blob/master/images/simulink.png">
+ <img width="640" height="400" src="https://github.com/Ajinkya259/VoiceBased_Gender_Recognization/blob/main/images/simulink.png">
     </div>
 </p>
 
